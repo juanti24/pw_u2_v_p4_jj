@@ -108,7 +108,7 @@
     display: grid;
     grid-template-columns: repeat(4, 75px);
     /*grid-template-rows: repeat(3, 75px);*/
-    background-color: rgb(5, 130, 172);
+    background-color: green;
     padding: 20px;
     border-radius: 25px;
     box-shadow: 10px 5px 2px 1px black;
@@ -133,11 +133,12 @@
   .butonGrande {
     margin: 3px;
     border-radius: 7px;
-    background-color: rgb(121, 207, 236);
+    background-color: rgb(121, 221, 91);
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    box-shadow: 1px 1px 2px 1px rgb(82, 149, 172);
+    box-shadow: 1px 1px 2px 1px rgb(93, 167, 130);
+    
   }
   button:hover {
-    background-color: aqua;
+    background-color: rgb(12, 114, 88);
   }
   </style>
